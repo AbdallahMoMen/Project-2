@@ -6,7 +6,8 @@ Kasper is creative one page PSD template great for portfolio,agency or any other
 
 
 ## Languages and Tools
-HTML , CSS
+- HTML
+- CSS
 ## Features
 
 - Fully Responsive
